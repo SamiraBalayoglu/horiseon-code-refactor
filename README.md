@@ -15,3 +15,7 @@ There is aside section which contains information about these 3 topics:
 
 ## Github page
 Use the [link](https://samirabalayoglu.github.io/horiseon-code-refactor/) to access the page on Github.
+
+## Home Page Screenshot
+
+![Home Page View](assets/screenshots/home.png)
